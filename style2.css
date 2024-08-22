@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(157, 125, 84);
+}
+.main{
+    margin: 17px auto;
+    display: flex;
+    margin-left:50px ;
+}
+.right-column img{
+    height:150px;
+    width: 170px;
+    margin-left: 87%;
+}
+.about{
+    margin-left : 30px;
+}
+.edu{
+    margin-left: 5px;
+}
